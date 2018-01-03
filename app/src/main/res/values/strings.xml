@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="ip">Adres IP</string>
+    <string name="nick">Nick</string>
+    <string name="cnn">Połącz</string>
+    <string name="send">Wyślij</string>
+    <string name="newmessage">Nowa wiadomość</string>
+</resources>
